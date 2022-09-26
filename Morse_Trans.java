@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.util.Scanner;
 
 
-public class Tarea6{
+public class Morse_Trans{
 		static JTextField textJ;
 		static JTextField morseField;
 		static JButton convertTxAMorse;
