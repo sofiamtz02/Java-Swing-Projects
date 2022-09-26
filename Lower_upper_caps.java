@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.Scanner;
 
-public class Eje8_sofi
+public class Lower_upper_caps
 {
 	static JTextField campoTxt1 = new JTextField();
 	static JTextField campoTxt2 = new JTextField();
